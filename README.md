@@ -17,3 +17,6 @@ This is a Max/Msp project. Each functionality has been separated in a subpatcher
 Main is the root. Names of subpatchers are pretty self explanatory.
 JavaScript language has been mainly used to draw 2D effects through object
 oriented programming.
+
+## Context
+This is the final project in the course media signal processing. 4 persons contributed to this.
