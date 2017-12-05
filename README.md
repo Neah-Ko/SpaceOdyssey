@@ -3,7 +3,8 @@ Digital Media - Media Signal Processing - Final Project
 
 ## Run the piece
 This piece has been designed to run on the software Max/Msp, on it's version 7.3.4.
-To run the piece you just have to open the project, it will start by itself.
+To run the piece you just have to open the project, it will start by itself 
+on the "world-main" `jit.gl.world` Max object. 
 
 ## Presentation
 This piece takes place a spaceship cockpit during 2 minutes and 43 seconds,
