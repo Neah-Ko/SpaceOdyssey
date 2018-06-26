@@ -7,7 +7,7 @@ To run the piece you just have to open the project, it will start by itself
 on the "world-main" `jit.gl.world` Max object. 
 
 ### For Windows 64bits users
-Built in Vbap (Vector Based Amplitude Panning) is missing however Nathan Wolek adapted it [Vbap](https://github.com/nwolek/vbap). May his life be filled with happiness.
+Built in Vbap (Vector Based Amplitude Panning) is missing however [Nathan Wolek adapted it](https://github.com/nwolek/vbap). May his life be filled with happiness.
 
 ## Presentation
 This piece takes place a spaceship cockpit during 2 minutes and 43 seconds,
